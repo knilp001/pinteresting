@@ -2,4 +2,14 @@ $body-bg:			#16a085;
 $navbar-default-bg:		#f1c40f;
 $navbar-default-link-color:	#8e44ad;
 
+
+
 @import 'bootstrap';
+
+.center {
+	text-align: center;
+}
+
+.navbar-brand {
+	font-weight:bold;
+}
